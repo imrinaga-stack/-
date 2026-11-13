@@ -1,0 +1,6 @@
+{
+  "name": "קטן ושווה — חנות משפחתית",
+  "description": "חנות משפחתית חכמה בבית ובאונליין עם סורק ברקודים, ניתוח מוצרים ב-AI, תגי A4 להדפסה, קבלות למייל וצ'אט בזמן אמת.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
